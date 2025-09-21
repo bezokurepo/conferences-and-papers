@@ -8,4 +8,3 @@ Bezoku's Ian Gilmour had a small talk at this excellent event with its focus on 
 Bezoku attended and attended most of the workshops. Empirical findings on monolingual models and the ongoing challenges in annotation quality were highlights.
 ## The 19th Linguistic Annotation workshop - https://sigann.github.io/LAW-XIX-2025/program.html
 We did not attend this one, but papers including "The revision of linguistic annotation in the Universal Dependencies framework: a look at the annotators’ behavior" are excellent
-## Please suggest other noteworthy conference on the field of UD / low resource and indigenous languages
