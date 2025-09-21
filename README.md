@@ -1,4 +1,4 @@
-# conferences-and-papers
+# conferences
 A list of conferences (and selected papers) that have made a big impact on the development of Bezoku
 ## First UD Conference - https://universaldependencies.org/udw17/
 Notable for being the first conference on UD with big names and topics that are still relevant today.
